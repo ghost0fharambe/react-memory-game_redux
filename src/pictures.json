@@ -1,0 +1,41 @@
+[{
+		"id": 1,
+		"name": "archer",
+		"src": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/p-archer-h-jon-benjamin.jpg"
+	},
+	{
+		"id": 2,
+		"name": "cheryl",
+		"src": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/p-archer-judy-greer.jpg"
+	},
+	{
+		"id": 3,
+		"name": "cyril",
+		"src": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/p-archer-chris-parnell.jpg"
+	},
+	{
+		"id": 4,
+		"name": "krieger",
+		"src": "https://memegenerator.net/img/images/300x300/16642495.jpg"
+	},
+	{
+		"id": 5,
+		"name": "lana",
+		"src": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/p-archer-lana-kane.jpg"
+	},
+	{
+		"id": 6,
+		"name": "mallory",
+		"src": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/p-archer-jessica-walter.jpg"
+	},
+	{
+		"id": 7,
+		"name": "pam",
+		"src": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/p-archer-amber-nash.jpg"
+	},
+	{
+		"id": 8,
+		"name": "ray",
+		"src": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/p-archer-adam-reed.jpg"
+	}
+]
