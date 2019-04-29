@@ -25,5 +25,5 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "homepage": "https://ghost0fharambe.github.io/react-memorize-game/"
+  "homepage": "https://ghost0fharambe.github.io/react-memory-game_redux/"
 }
